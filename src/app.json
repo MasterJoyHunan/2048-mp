@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#faf8ea",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "black"
+  }
+}
