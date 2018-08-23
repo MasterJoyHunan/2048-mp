@@ -2,7 +2,7 @@
 
 > 使用mpvue编写的2048小程序, 仅供交流学习.
 
-##图片展示
+## 图片展示
 
 ![2048](http://olj.masterjoy.top/joy/2048.png)
 
