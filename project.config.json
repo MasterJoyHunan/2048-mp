@@ -9,7 +9,7 @@
 	},
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
-	"appid": "you appid",
+	"appid": "wx3f53df44e826f923",
 	"projectname": "2048",
 	"condition": {
 		"search": {
